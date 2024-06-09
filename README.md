@@ -32,6 +32,6 @@
   <a href="https://www.linkedin.com/in/lucas-testa-332460224?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-![snake gif](https://github.com/juninho15830/LucasTesta444/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/LucasTesta444/LucasTesta444/blob/output/github-contribution-grid-snake.gif)
 
 
