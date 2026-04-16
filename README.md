@@ -1,7 +1,7 @@
 ## Oláaa! Eu sou o Lucas Testa
 
-- 🌱 Sou estudante de tecnologias e estou cursando Engenharia De Software.
-- 💬 Atualmente estou aperfeiçoando minhas habilidades em React Js e começando com desenvolvimento IOS com SwiftUI.
+- 🌱 Sou estudante de tecnologias e estou cursando Análise e Desenvolvimento de sistemas.
+- 💬 Atualmente estou aperfeiçoando minhas habilidades em React Js.
 - 🚀 Tenho um sonho em trabalhar em uma empresa de tecnologia.
 
 ##
